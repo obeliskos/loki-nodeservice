@@ -1,0 +1,22 @@
+{
+  "name": "loki-nodeservice",
+  "version": "1.0.0",
+  "description": "Service layer for hosting loki databases",
+  "main": "lokiservice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obeliskos/loki-nodeservice.git"
+  },
+  "author": "obeliskos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obeliskos/loki-nodeservice/issues"
+  },
+  "homepage": "https://github.com/obeliskos/loki-nodeservice#readme",
+  "dependencies": {
+    "lokijs": "^1.5.0"
+  }
+}
