@@ -18,5 +18,14 @@
   "homepage": "https://github.com/obeliskos/loki-nodeservice#readme",
   "dependencies": {
     "lokijs": "^1.5.0"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "lokijs",
+    "aspnetcore",
+    "nodeservices"
+  ]
 }
